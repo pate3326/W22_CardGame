@@ -7,7 +7,7 @@ package CardGame;
 
 /**
  *
- * @author Pate3326
+ * @author Pate3326 8 february
  */
 public class CardTrick {
 
