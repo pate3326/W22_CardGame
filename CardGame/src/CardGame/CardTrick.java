@@ -12,8 +12,8 @@ package CardGame;
 public class CardTrick {
 
 public static void main(String[] args) {
-  
-CardGame[] magicHand = new CardGame[7];
+  //changed array size to 8
+CardGame[] magicHand = new CardGame[8];
 
 for (int i = 0; i < magicHand.length; i++) {
 CardGame c = new CardGame();
