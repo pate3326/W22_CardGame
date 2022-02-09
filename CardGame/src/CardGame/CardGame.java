@@ -65,7 +65,14 @@ public class CardGame {
         String response = match ? "Right guess": "No match";
         
         System.out.println(response);
+        
     }
+    
+    public static void printInfo(String response) {
+        System.out.println(response + "Shivani Harshadkumar Patel. I am enrolled in Computer Programming course. I love watching movies and reading books");
+    }
+
+
     
 }
 
