@@ -67,7 +67,7 @@ public class CardGame {
         System.out.println(response);
         
     }
-    
+    //I have completed my exercise1
     public static void printInfo(String response) {
         System.out.println(response + "Shivani Harshadkumar Patel. I am enrolled in Computer Programming course. I love watching movies and reading books");
     }
